@@ -4,7 +4,7 @@ prijzen = {
     "chocolade" : 5
 }
 
-aanbieding = prijzen["vanille"] * 0.8
+aanbieding = prijzen["aardbei"] * 0.8
 
 reclame_tekst = (f"Vandaag in de aanbieding: vanille-ijs, 1 liter - slechts € {aanbieding}")
 
